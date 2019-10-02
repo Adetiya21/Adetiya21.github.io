@@ -1,0 +1,17 @@
+/*-----------------------------------------  Preloader --------------------------------------------------*/
+/*preloader*/
+#loading {
+  position: fixed;
+  top: 0;
+  left: 100px;
+  right: 0;
+  bottom: 0;
+  background: #F3A5B9;
+  z-index: 999999;
+  /*background: #fff url(../../images/load/loader.gif) no-repeat;*/
+  /*background-size: 100%;*/
+  /*background-position: center center;*/
+  text-align: center;
+  margin: -40px 0 0 -100px;
+  font-family: 'Open Sans', sans-serif;
+  }

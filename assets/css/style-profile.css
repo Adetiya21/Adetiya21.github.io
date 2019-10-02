@@ -1,0 +1,311 @@
+.slider_box {
+  margin: 0 auto;
+  width: 1280px;
+  height: 800px;
+  position: relative;
+  overflow: hidden;
+  /*border: 1px solid #F3A5B9;*/
+}
+
+
+.silder_con {
+  padding-left: 0;
+  position: absolute;
+}
+
+.silder_panel {
+  width: 1280px;
+  /*height: 500px;*/
+  opacity: 0.9;
+  overflow: hidden;
+  float: left;
+  position: relative;
+}
+
+.silder_panel img {
+  width: 100%;
+  overflow: hidden;
+}
+
+
+.slider_box a.prev,
+.slider_box a.next {
+  display: block;
+  width: 40px;
+  height: 80px;
+  overflow: hidden;
+  z-index: 9;
+  position: absolute;
+  top: 20%;
+  cursor: pointer;
+  margin: 180px 15px 0 15px;
+  background: url('../img/profile/silder_btn.png') no-repeat;
+  opacity: 0.5;
+  transition: opacity 0.3s;
+}
+
+.slider_box a.prev:hover,
+.slider_box a.next:hover {
+  opacity: 1;
+}
+
+.slider_box a.prev {
+  left: 0;
+  background-position: left 0;
+}
+
+.slider_box a.next {
+  right: 0;
+  background-position: right 0;
+}
+
+
+.silder_nav_mask {
+  height: 800px;
+  overflow: hidden;
+  background: #ddd;
+  opacity: 0.3;
+  width: 270px;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  z-index: 1;
+}
+
+.silder_nav {
+  width: 220px;
+  height: 100px
+  text-align: left top;
+  top: 10%;
+  left: 4%;
+  overflow: hidden;
+  z-index: 9;
+  position: absolute;
+}
+
+.silder_nav .silder_nav_item {
+  margin: 2px 10px;
+  display: inline-block;
+  border: 1px #e7e7e7 solid;
+  cursor: pointer;
+}
+
+.silder_nav .silder_nav_item.current {
+  margin-bottom: 8px;
+  transition: margin 0.3s;
+}
+
+.silder_nav img {
+  display: block;
+  width: 100%;
+  /*height: 150px;*/
+}
+
+
+.silder_intro {
+  display: block;
+  position: absolute;
+  right: 60px;
+  top: 40px;
+  z-index: 9;
+  width: 500px;
+  /*height: 100%;*/
+  padding: 15px;
+  overflow: hidden;
+  background: rgba(0, 0, 0, .9);
+  color: #f0f0f0;
+  padding-left: 20px;
+  box-shadow: 0 0 5px 0 #ddd;
+  border-radius: 5px;
+  text-indent: 0;
+  text-decoration: none;
+  opacity: 0.6;
+}
+
+.silder_intro_content {
+  font-size: 12px;
+  margin: 10px 0;
+  line-height: 1.8em;
+}
+
+.silder_intro_content h3 {
+  padding-bottom: 1px;
+  padding-left: 15px;
+}
+
+.silder_intro_content p {
+  padding-left: 15px;
+  text-align: justify;
+}
+
+.debut {
+  padding-left: 15px;
+  text-align: left;
+  font-size: 0.8em;
+}
+.debut b {
+  font-size: 1.3em;
+  color: #fff;
+}
+.data {
+  width: 100%;
+  padding-left: 15px;
+  padding-top: 10px;
+}
+
+
+@media screen and (min-width: 501px) {
+  .slider_box1 {
+    display: none;
+  }
+}
+@media screen and (max-width: 500px) {
+  .slider_box {
+    display: none;
+  }
+
+   .slider_box1 {
+    margin: 0 auto;
+    width: 400px;
+    height: 700px;
+    position: relative;
+    overflow: hidden;
+  }
+
+  /* 轮播幻灯片 */
+
+  .silder_con1 {
+    padding-left: 0;
+    position: absolute;
+  }
+
+  .silder_panel1 {
+    width: 400px;
+    /*height: 1000px;*/
+    opacity: 0.9;
+    overflow: hidden;
+    float: left;
+    position: relative;
+  }
+
+  .silder_panel1 img {
+    width: 500px;
+    margin-left: -60px;
+    height: 700px;
+    display: block;
+    overflow: hidden;
+  }
+
+  /* 左右切换按钮 */
+
+  .slider_box1 a.prev,
+  .slider_box1 a.next {
+    display: block;
+    width: 40px;
+    height: 80px;
+    overflow: hidden;
+    z-index: 9;
+    position: absolute;
+    cursor: pointer;
+    margin: 180px 15px 0 15px;
+    background: url('../img/profile/silder_btn.png') no-repeat;
+    opacity: 0.2;
+    bottom: 75%;
+    transition: opacity 0.3s;
+  }
+
+  .slider_box1 a.prev:hover,
+  .slider_box1 a.next:hover {
+    opacity: 0.1;
+  }
+
+  .slider_box1 a.prev {
+    left: 0;
+    background-position: left 0;
+  }
+
+  .slider_box1 a.next {
+    right: 0;
+    background-position: right 0;
+  }
+
+  /* 导航控制条 */
+
+  .silder_nav_mask1 {
+    height: 85px;
+    overflow: hidden;
+    background: #ddd;
+    opacity: 0.3;
+    width: 100%;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    z-index: 1;
+  }
+
+  .silder_nav1 {
+    width: 100%;
+    text-align: center;
+    bottom: 0;
+    overflow: hidden;
+    z-index: 9;
+    position: absolute;
+  }
+
+  .silder_nav1 .silder_nav_item1 {
+    margin: 2px 10px;
+    display: inline-block;
+    border: 1px #e7e7e7 solid;
+    cursor: pointer;
+  }
+
+  .silder_nav1 .silder_nav_item1.current1 {
+    margin-bottom: 8px;
+    transition: margin 0.3s;
+  }
+
+  .silder_nav1 img {
+    display: block;
+    width: 60px;
+    height: 70px;
+  }
+
+  /* 右侧文字注释区域 */
+
+  .silder_intro1 {
+    display: block;
+    position: absolute;
+    right: 0;
+    top: 0;
+    z-index: 9;
+    width: 400px;
+    height: 800px;
+    padding: 5px;
+    overflow: hidden;
+    background: rgba(0, 0, 0, .9);
+    color: #f0f0f0;
+    padding-left: 20px;
+    box-shadow: 0 0 5px 0 #ddd;
+    border-radius: 5px;
+    text-indent: 0;
+    text-decoration: none;
+    opacity: 0.6;
+    text-align: justify;
+  }
+
+  .silder_intro_content1 {
+    font-size: 0.6em;
+    margin: 10px 0;
+    line-height: 1.8em;
+  }
+
+  .silder_intro_content1 h3 {
+    padding-bottom: 1px;
+    padding-left: 15px;
+  }
+
+  .silder_intro_content1 p {
+    padding-left: 15px;
+    te
+  }
+}
