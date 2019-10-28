@@ -1,6 +1,6 @@
     /*
     Flaticon icon font: Flaticon
-    Creation date: 21/03/2019 11:46
+    Creation date: 07/05/2019 06:52
     */
 
     @font-face {
@@ -37,16 +37,18 @@
   font-smoothing: antialiased;
     }
 
-    .flaticon-reload:before { content: "\f100"; }
-.flaticon-download:before { content: "\f101"; }
-.flaticon-monitor:before { content: "\f102"; }
-.flaticon-chat:before { content: "\f103"; }
-.flaticon-glasses:before { content: "\f104"; }
-.flaticon-vector:before { content: "\f105"; }
+    .flaticon-server:before { content: "\f100"; }
+.flaticon-cloud:before { content: "\f101"; }
+.flaticon-cloud-computing:before { content: "\f102"; }
+.flaticon-settings:before { content: "\f103"; }
+.flaticon-database:before { content: "\f104"; }
+.flaticon-life-insurance:before { content: "\f105"; }
+.flaticon-customer-service:before { content: "\f106"; }
     
-    $font-Flaticon-reload: "\f100";
-    $font-Flaticon-download: "\f101";
-    $font-Flaticon-monitor: "\f102";
-    $font-Flaticon-chat: "\f103";
-    $font-Flaticon-glasses: "\f104";
-    $font-Flaticon-vector: "\f105";
+    $font-Flaticon-server: "\f100";
+    $font-Flaticon-cloud: "\f101";
+    $font-Flaticon-cloud-computing: "\f102";
+    $font-Flaticon-settings: "\f103";
+    $font-Flaticon-database: "\f104";
+    $font-Flaticon-life-insurance: "\f105";
+    $font-Flaticon-customer-service: "\f106";

@@ -1,6 +1,6 @@
 	/*
   	Flaticon icon font: Flaticon
-  	Creation date: 21/03/2019 11:46
+  	Creation date: 07/05/2019 06:52
   	*/
 
 @font-face {
@@ -24,22 +24,16 @@
 
 [class^="flaticon-"]:before, [class*=" flaticon-"]:before,
 [class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
-  font-family: "Flaticon";
-  font-style: normal;
-  font-weight: normal;
-  font-variant: normal;
-  line-height: 1;
-  text-decoration: inherit;
-  text-rendering: optimizeLegibility;
-  text-transform: none;
-  -moz-osx-font-smoothing: grayscale;
-  -webkit-font-smoothing: antialiased;
-  font-smoothing: antialiased;
+  font-family: Flaticon;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
 }
 
-.flaticon-reload:before { content: "\f100"; }
-.flaticon-download:before { content: "\f101"; }
-.flaticon-monitor:before { content: "\f102"; }
-.flaticon-chat:before { content: "\f103"; }
-.flaticon-glasses:before { content: "\f104"; }
-.flaticon-vector:before { content: "\f105"; }
+.flaticon-server:before { content: "\f100"; }
+.flaticon-cloud:before { content: "\f101"; }
+.flaticon-cloud-computing:before { content: "\f102"; }
+.flaticon-settings:before { content: "\f103"; }
+.flaticon-database:before { content: "\f104"; }
+.flaticon-life-insurance:before { content: "\f105"; }
+.flaticon-customer-service:before { content: "\f106"; }
