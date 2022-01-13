@@ -1,0 +1,116 @@
+/* @override http://randomname.dev/random.css */
+
+html {
+  overflow-y: scroll !important;
+}
+
+body{
+  font-family: "Source Sans Pro", Helvetica, Arial, sans serif;
+}
+
+ol {
+  color: #253241 !important;
+}
+
+.container {
+  width: 95%;
+  margin: 20px auto 0;
+  text-align: center;
+}
+
+.header {
+ margin: 0 0 20px 0;
+}
+.header img{
+  width: 50%;
+}
+
+.attendees-wrapper {
+  display: none;
+}
+
+#draw-name {
+    padding: 10px;
+    font-size: 30px;
+    color: #fff;
+    background: #2BA8E0;
+    display: block;
+    width: 280px;
+    text-align: center;
+    margin: 0 auto 40px;
+    cursor: pointer;
+    border-radius: 10px;
+    box-shadow: 0 5px #3894C8;
+}
+
+#draw-name-2 {
+  padding: 10px;
+  font-size: 30px;
+  color: #fff;
+  background: #ff7944;
+  display: block;
+  width: 280px;
+  text-align: center;
+  margin: 0 auto 40px;
+  cursor: pointer;
+  border-radius: 10px;
+  box-shadow: 0 5px #e15923;
+}
+
+#draw-name:hover {
+  background: #FDB161;
+  box-shadow: 0 5px #DA8327
+}
+
+.winner-container {
+  color: #000;
+  padding: 20px;
+  text-align: center;
+  margin: 0 auto;
+  display: none;
+}
+
+#winners {
+  margin: 0;
+  padding: 0;
+}
+
+#winners li {
+  list-style-position: inside;
+  font-size: 2em;
+  margin: 0;
+  padding: 0;
+}
+
+/* #winners li:first-child {
+  font-size: 2em;
+  font-weight: bold;
+}
+
+#winners li:first-child::after {
+  content:" !!!";
+} 
+
+#winners li:first-child::marker {
+  content:"!!! ";
+}  */
+
+#drumroll-image {
+  display: none;
+}
+
+.sponsors ul {
+  margin: 0;
+  padding: 0;
+}
+
+.sponsors li {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.sponsors li img {
+  vertical-align: middle;
+  margin: 10px;
+}

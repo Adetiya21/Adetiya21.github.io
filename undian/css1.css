@@ -1,0 +1,217 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css?family=Poppins:300,400,500,700');
+
+* {
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  font-family: Poppins, sans-serif;
+}
+
+body {
+  background-color: white;
+  color: #253241;
+  font-family: Poppins, sans-serif;
+}
+body .wrapper {
+  width: 100%;
+  /* max-width: 800px;
+  text-align: center;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%); */
+}
+body #roll {
+  display: inline-block;
+  color: white;
+  background-color: #1f2b37;
+  text-decoration: none;
+  font-size: 2rem;
+  border: 5px solid #253241;
+  padding: 0.45em 2em;
+  border-radius: 3em;
+  transition: 400ms ease-in-out;
+  margin-bottom: 30px;
+}
+body #roll:hover {
+  background-color: white;
+  border: 5px solid #253241;
+  color: #253241;
+  font-family: Poppins;
+}
+body #utama {
+  display: inline-block;
+  color: white;
+  background-color: #f44336;
+  text-decoration: none;
+  font-size: 2rem;
+  border: 5px solid #e93124;
+  padding: 0.45em 2em;
+  border-radius: 3em;
+  transition: 400ms ease-in-out;
+  margin-bottom: 30px;
+}
+body #utama:hover {
+  background-color: white;
+  border: 5px solid #e93124;
+  color: #e93124;
+  font-family: Poppins;
+}
+body #names {
+  font-size: 1.85rem;
+  margin-top: -20px;
+  font-weight: bold;
+}
+body #winner {
+  font-size: 2.5rem;
+}
+body #winner span {
+  font-size: 0.35em;
+  letter-spacing: 4px;
+  font-family: Poppins;
+}
+.we_care {
+  width: 13%;
+  position: fixed;
+  bottom: 10px;
+  left: 10px;
+}
+.seven {
+  width: 13%;
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+}
+
+.bunga_kanan {
+  width: 21%;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+.bunga_kiri {
+  width: 20%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.bgg {
+  width: 100%;
+  /* height: 100px; */
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1000;
+}
+
+.pushable {
+  /* width: 500px; */
+  background: hsl(340deg 100% 32%);
+  border-radius: 15px;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  outline-offset: 4px;
+  position: relative;
+}
+.front {
+  display: block;
+  padding: 20px 40px;
+  border-radius: 15px;
+  font-size: 1.8rem;
+  /* background: hsl(345deg 100% 50%); */
+  background-color: #ff3550;
+  color: white;
+  transform: translateY(-20px);
+}
+.front p {
+  font-size: 0.6em;
+}
+.shadow {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: 15px;
+  background: hsl(0deg 0% 0% / 0.25);
+  transform: translateY(6px);
+}
+.edge {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: 15px;
+  background: hsl(340deg 100% 32%);
+}
+
+.pushable:hover .front {
+  transform: translateY(-16px);
+}
+.pushable:hover .shadow {
+  transform: translateY(8px);
+}
+.pushable:active .front {
+  transform: translateY(-2px);
+}
+.pushable:active .shadow {
+  transform: translateY(1px);
+}
+.pushable:focus:not(:focus-visible) {
+  outline: none;
+}
+.inline {
+  display: flex;  
+  justify-content: center;  
+  align-items: center;  
+  margin-bottom: 50px;
+}
+.inline button {
+  display: inline-block;
+  margin-right:50px;
+}
+
+.slot {
+	position: relative
+}
+
+.slot__outer {
+	width: 36rem;
+	height: 8.375rem;
+	padding: 1rem;
+	margin: 0 auto;
+	box-shadow: 0 .7rem 0 rgba(0, 0, 0, .2);
+	/* box-shadow: .625rem .625rem 0 rgba(0, 0, 0, .2); */
+	background: #ff9751 url(images/svg/light-blubs.0d2ddfd.svg);
+	z-index: -1;
+}
+
+.slot__inner,
+.slot__outer {
+	border-radius: 1.25rem;
+	position: relative
+}
+
+.slot__inner {
+	background-color: #fff;
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+	padding: 1.8125rem
+}
+
+.slot__shadow {
+	background: -moz-linear-gradient(top, hsla(0, 0%, 100%, .1) .13%, rgba(0, 0, 0, .1) 100%);
+	background: -o-linear-gradient(top, hsla(0, 0%, 100%, .1) .13%, rgba(0, 0, 0, .1) 100%);
+	background: linear-gradient(180deg, hsla(0, 0%, 100%, .1) .13%, rgba(0, 0, 0, .1));
+	height: 5.625rem;
+	width: 100%;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	border-bottom-right-radius: 1.25rem;
+	border-bottom-left-radius: 1.25rem
+}

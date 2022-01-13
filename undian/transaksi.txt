@@ -1,0 +1,475 @@
+04120001 | Suwandi | Direktur
+04120002 | Susana | Manager
+09120004 | Mastur | Logistik
+11120006 | Adi Sudjatmoko | Laboratorium
+12120007 | Febriyanti | Wadir
+01130008 | Burhanudin | Pelayanan Intensif
+03130011 | Lutfia, A.Md.Kep | Rawat Jalan
+03130012 | Ribka Meliana Dalengkade | Rawat Jalan
+09130015 | Irfan | Hemodialisa
+10130018 | Kurniawan Fitri | Kamar Operasi
+10130019 | Rismauli Hutasoit | Rawat Jalan
+10130020 | Harmiasih | Rawat Jalan
+11130021 | Janiarti | Keuangan
+11130026 | Ari Andiko | Gawat Darurat
+11130028 | Christiana Noviyanti Sartono | Rawat Jalan
+11130029 | David Henry Simanjuntak | Kamar Operasi
+11130034 | Helen Novianti | Gawat Darurat
+11130036 | Liza Asrolena | Rawat Inap - Perinatologi
+11130045 | Nora Velinda | Kamar Operasi
+11130048 | Putri Karlinawati | Gawat Darurat
+11130049 | Rahayu Ningsih | Rawat Jalan
+11130050 | Ria Astri Wandira Lestari | Pelayanan Intensif
+11130052 | Rina Jumiati Parida | Rawat Inap - Perinatologi
+11130053 | Rindi Antika | Rawat Jalan
+11130054 | Rusmala Dewi | Rawat Inap - Lantai 8
+11130056 | Silvia Angelia | Rawat Inap - Lantai 8
+11130060 | Windha Danyati | Pendaftaran
+11130061 | Yorike Amelda | Gawat Darurat
+11130065 | Ziarahmi | Pelayanan Intensif
+11130066 | Sari | Rawat Jalan
+11130068 | Fransiska Apriani | Radiologi
+11130070 | Fiky Dwi Setiady | Radiologi
+11130071 | Novi Wahyu Cahyaningrum | Wadir
+11130077 | Erlin Nofriana | Pembelian
+11130078 | Agatha Firma Nella | Rawat Jalan
+11130080 | Theresia Wenty Anggraini | Rawat Jalan
+11130083 | Merni Zulkarlina | Gawat Darurat
+12130084 | Suriviana | Direktur
+12130090 | Sutinawati | Laboratorium
+12130091 | Nurul Yaumil Maulida | Laboratorium
+12130095 | Dian Dana Hera | Keuangan
+12130097 | Taty Umiyati | Kasir
+12130099 | Maria Fransiska Nursula | Pendaftaran
+12130100 | Ulul Azmi | Laboratorium
+01140106 | Gregorius Ewaldo Roman | Laboratorium
+01140108 | Shella Putri Utami | Pendaftaran
+01140111 | Icun Ade Yanti | Farmasi
+01140113 | Nilam Ika Sari | Farmasi
+01140114 | Dewi Agustiani | Farmasi
+01140122 | Apriansyah Syaputra | Laboratorium
+01140123 | Hetreda Alexander | Pemasaran & Promosi
+01140127 | Danianus Petrus | Gawat Darurat
+01140130 | Petrus Kanel | Gawat Darurat
+01140131 | Mardiah | Rawat Inap - Lantai 8
+01140133 | Irene Shinta Sitinjak | Rawat Inap - Lantai 8
+01140134 | Novarius Nova Purwa | CSSD
+01140136 | Tri Lia Libata | Pelayanan Intensif
+01140137 | Bennytho Firman | Gawat Darurat
+01140139 | Asban | Gawat Darurat
+01140140 | Ayi Romadoni | Gawat Darurat
+01140147 | Yustina Pena | Rawat Jalan
+01140148 | Donatha Malinda | Rawat Inap - Perinatologi
+01140149 | Elfrida Efi | Rawat Inap - Lantai 8
+01140150 | Kurniati | Rawat Inap - Perinatologi
+01140153 | Poppy Elvira | Rawat Inap - Kamar Bersalin
+01140156 | Nia Parlinda. A | Gawat Darurat
+01140162 | Kardiana Kamsiah | Laundry
+01140163 | Suniati Ango | Gizi
+01140166 | Firmina Isdianti | Keuangan
+01140168 | Agus | Teknik
+01140169 | Asmadi | Kamar Operasi
+01140170 | Muhammad Thamrien | Rumah Tangga
+02140175 | Budi | Manager
+02140176 | Rendra | Kasir
+02140177 | Rachmat Ramadhan | Teknik
+02140180 | Irmina Susanti | Pemasaran & Promosi
+02140181 | Valleri Siahaan | Keuangan
+140002 | Abdul Hadi Basarah | Radiologi
+02140186 | Ajeng Prana Wengrum. W | Pendaftaran
+02140188 | Bayu Norfiansyah | Farmasi
+02140189 | Marini | Rawat Inap - Lantai 8
+02140190 | Shela Safitri | Farmasi
+02140191 | Rini Nopiarni | Keuangan
+02140194 | Olfi Ana Tripiana | Pendaftaran
+02140196 | Florensius Maikel | Rekam Medis
+02140202 | Rini Awaliyah | Pendaftaran
+02140205 | Saut Timbul Silitonga | Gawat Darurat
+02140206 | Fitri Afriani | Rawat Inap - Lantai 6
+02140207 | Flavianus Robertho Aleska | Pelayanan Intensif
+03140208 | Yudi Fibriansyah | Akuntansi
+03140209 | Oktavio Dwi Handono | Pelayanan Intensif
+03140210 | Maya Anggraini Pratimi | Gawat Darurat
+03140214 | Riyanni Saptaria | Pelayanan Intensif
+04140224 | Novitasari | Dokter Umum
+04140227 | Marliana | Gawat Darurat
+04140228 | Neneng Yuningsih | Rawat Inap - Lantai 6
+04140229 | Sari Melaty Hutabarat | Rawat Inap - Lantai 5
+05140231 | Ibnu Hadi Nugroho | Kamar Operasi
+05140232 | Resti Retnaningtyas | Laundry
+05140236 | Eka Ediansyah Putra | Gawat Darurat
+05140239 | Iskandar | Teknik
+05140241 | Yuliana | Kasir
+05140243 | Martini | Farmasi
+06140244 | Anastasia Kartini | Manager
+06140246 | Suci Lestari | Farmasi
+07140247 | Hendrawan/Lenny Kartakinda A | Corporate
+08140252 | Fredi Ruspandi | Teknik
+09140257 | Marcus Gatot Budi Prihono | Wadir
+10140259 | Verani Effendi | Manager
+10140260 | Fitriansyah | Kasir
+10140261 | Maria Fransisca Nidai | Laundry
+12140263 | Andri Kurniawan | Rawat Inap - Lantai 8
+12140264 | Hanggara Zulfi Nugraha | Pelayanan Intensif
+02150273 | Elly Hasan | Laundry
+02150275 | Basita Sianipar | Rawat Inap - Lantai 8
+02150277 | Elisabet | Rawat Inap - Kamar Bersalin
+02150278 | Laurentika Septiani | Rawat Inap - Kamar Bersalin
+03150283 | Azizah Anggraini | Gizi
+03150284 | Desty Nur Rahmawati | Radiologi
+03150285 | Daniel Deny | Rawat Inap - Lantai 5
+03150286 | F. Bonie | CSSD
+03150289 | Ratna Juami | Rawat Jalan
+04150290 | Rina | Gizi
+04150292 | Kristina Anoles | Pelayanan Intensif
+04150295 | Retiana Reti | Rekam Medis
+04150297 | Theah Desyana | Pembelian
+04150302 | Arie Chandra | Direktur
+05150303 | Rudiansyah | Teknik
+06150307 | Sumriawati | Akuntansi
+06150312 | Evansius | Rawat Inap - Lantai 6
+06150315 | Jefri Miraidi | Teknik
+07150318 | Kandida Vitriani | Rawat Inap - Perinatologi
+07150320 | Maria Oltia | Rawat Jalan
+07150324 | Rufina Juliati | Rawat Jalan
+07150327 | Tri Vina | Rawat Jalan
+08150329 | Dorothy Karya Yogi Lubis | Dokter Umum
+10150333 | Badruddin | Farmasi
+12150345 | Budi Gunawan | Laundry
+12150347 | Deni Susanto | Kamar Operasi
+12150349 | Mardianus Joko | Rekam Medis
+01160350 | Eurika | Pelayanan Intensif
+01160351 | Jupriadi | Teknik
+01160352 | Teodora Apriani | Rawat Inap - Lantai 8
+02160355 | Melitha Anggraeni | Pendaftaran
+03160357 | Frans Handrianus Deo | Rawat Inap - Lantai 6
+03160359 | Victor Candra Purnawinata | Rawat Inap - Lantai 5
+04160364 | Yohanes Rindo Ari Wijoyo | IPCN
+04160365 | Yovita Maria | Rawat Jalan
+05160366 | Elisa Oktaviani | Rawat Inap - Perinatologi
+05160368 | Rastina | Rekam Medis
+05160369 | Sumartin | Pelayanan Intensif
+06160371 | Nanda Aulia Putri | Dokter Spesialis
+07160372 | Ovide Karya Denny Tombeng | Dokter Spesialis
+09160373 | Dian Rosa Arizona | Dokter Umum
+10160375 | Eka Septiadi | Gawat Darurat
+11160377 | Eko Handoko | Rumah Tangga
+02170389 | Reza Grovando | Gawat Darurat
+02170390 | Galuh Indra Wijayanti | Gawat Darurat
+02170391 | Peni Ariyani | Rawat Jalan
+02170392 | Putri Andani Rosanti | Rawat Jalan
+02170393 | Melita Vayatri | Gizi
+02170394 | Stepanni Perdiana Erica | Pendaftaran
+03170398 | Maula Memoura | Admin Ruang
+04170401 | Synthia Anggarini | Rawat Inap - Kamar Bersalin
+04170402 | Cornelius Lutiono | Dokter Umum
+06170409 | Anggi Hastrianto | Gawat Darurat
+06170410 | Elvi Karlina Surya Ningsih | Akuntansi
+06170414 | Neneng | SDM dan Legal
+07170417 | Nu'man Maiz | Farmasi
+07170418 | Aan Priatma | Gawat Darurat
+07170420 | Yeri Siska | Rawat Inap - Lantai 8
+07170421 | Andy Wijaya | Corporate
+08170422 | Elisa Gabriella Intan Sari Kurnia | Gawat Darurat
+08170423 | Riska Wahyu. P | Farmasi
+08170425 | Eka Sri Winarsih | Rawat Inap - Lantai 6
+08170426 | Sylvianingsih | Rawat Inap - Lantai 6
+09170429 | Hany Wulandari | Farmasi
+09170431 | Ruth Haryati Butar Butar | Farmasi
+11170434 | Mardiah - umum | Gizi
+11170436 | Anastasia Bellawati | Rawat Inap - Lantai 6
+11170437 | Tri Gunawan | Rawat Inap - Lantai 6
+12170442 | Erika Damayanti | Gizi
+01180445 | Valentina Tifani | Rawat Inap - Kamar Bersalin
+02180446 | Christian Dwi Oktavianto | Pelayanan Intensif
+02180447 | Utari Panggabean | Rawat Jalan
+02180448 | Suparmanto | IPCN
+02180449 | Ika Safutri | Rawat Inap - Lantai 6
+02180450 | Lia Fransiska Natal | Rawat Jalan
+02180452 | Praja Tirta Amarta | Pembelian
+03180454 | Dessyana Paulus | Gawat Darurat
+03180455 | Happy Fitri Utami | Rawat Jalan
+03180456 | C. Fristy Blaise | Rawat Inap - Lantai 8
+03180457 | Lilie Sutiani | Rawat Jalan
+03180458 | Anjas Awi Ladika | Laboratorium
+03180460 | Erika Oktafiani Permata Putri | Akuntansi
+03180461 | Nanda Selatyasari | Farmasi
+02180462 | Shiska Novalia | Dokter Spesialis
+04180465 | Edy Chandera | Dokter Spesialis
+05180466 | Mita Kumalasari | Rawat Jalan
+07180470 | Awliya Rizqi Utami | Rawat Inap - Perinatologi
+07180471 | Arbiansyah | Hemodialisa
+08180474 | Abdul Rahim | Teknik
+09180478 | Nurul Puspita Sari | Rawat Inap - Kamar Bersalin
+09180480 | Ana Sesar Andani Pangarepo | Pemasaran & Promosi
+09180481 | Akhmad Aspari | CSSD
+09180482 | Munika Desiana | Gizi
+10180483 | Krisdayanti Losera | Pelayanan Intensif
+10180484 | Fery Mursyidan Baldan | Rawat Inap - Lantai 8
+12180504 | Rosiana | Farmasi
+10180487 | Suyono | IT
+10180490 | Yulia Trinika | Rawat Inap - Perinatologi
+10180491 | Maria Dwi Sartika | Pelayanan Intensif
+10180492 | Markus Marjumi | Kamar Operasi
+11180497 | Rifani Amalia | Farmasi
+11180499 | Ari Setiadi | Laundry
+11180501 | Anastasia Eva | Keuangan
+01190506 | Hildegardis Debby | Rekam Medis
+01190509 | Gradilla Aprawinda | Admin Ruang
+01190510 | Halimawati | Farmasi
+01190511 | Lutfi | Pendaftaran
+01190512 | Tan Tjiak Hauw | Corporate
+01190513 | Santyoso Tio | Corporate
+02190515 | Rizkiya Ainaini | Farmasi
+02190516 | Barnabas Arie Priyombodo | Rawat Inap - Lantai 8
+02190518 | Kristina Desi | Rawat Jalan
+02190519 | Dewi Agna | Rawat Jalan
+02190521 | Naila karimah | Rawat Inap - Lantai 6
+02190522 | Indah Purnama Sari | Hemodialisa
+02190523 | Fitriana | Rawat Inap - Perinatologi
+02190526 | Irawati | Farmasi
+03190528 | Andini | Keuangan
+03190530 | Nandah Agustinara | Gawat Darurat
+03190532 | Natalia Puriandini T | Rawat Inap - Lantai 8
+03190533 | Nanang | Rawat Inap - Lantai 6
+03190534 | Kristin Wulan Sari | Rawat Inap - Lantai 5
+03190535 | Irfan hidayat | Rawat Inap - Lantai 6
+03190537 | Nasrullah | Rawat Inap - Lantai 8
+03190539 | Zaenah El Firadisyi | Rawat Inap - Perinatologi
+03190540 | Maria Marselina Yanti | Rawat Inap - Lantai 8
+03190542 | Nur Islamiyah | Rawat Inap - Lantai 8
+03190543 | Veronika Herawati | Rawat Inap - Perinatologi
+03190546 | Tri Herdianti | Rawat Inap - Lantai 8
+04190548 | Robertus Meidiyanto | Dokter Spesialis
+04190550 | Mujahidah A'liyyah | Gizi
+04190551 | Wahdaniah | Farmasi
+04190552 | Marselina Limbong | Admin Ruang
+04190555 | Rino Syafarian | Teknik
+04190556 | Felisia Nova | Rawat Jalan
+04190557 | Yosi Erlin Aprilina | Dokter Umum
+04190560 | Andre Meydiatama Putra | Rawat Inap - Lantai 6
+04190563 | Ismail | Pendaftaran
+04190564 | Sevilla Chandra | Kasir
+04190565 | Desy Fitri Maulidia | Rawat Inap - Lantai 6
+05190570 | Irene Halitia Meiti | Pendaftaran
+05190572 | Afra Firda Uci | Rawat Jalan
+05190575 | John Esmar Jikow Gultom | Dokter Umum
+05190578 | Novita Elvina | Keuangan
+05190580 | Regina Dispin | Laundry
+06190581 | Millianna Green | Admin Ruang
+06190582 | Rendy Eka Saputra | Laboratorium
+07190584 | Titik Sudiarti | Kasir
+07190585 | Elizabeth | Dokter Umum
+07190586 | Wendy Wongso | Dokter Umum
+08190588 | M. Arif | Sanitasi
+08190590 | Amelia Anggraini | Rawat Inap - Kamar Bersalin
+08190591 | Tika | Kamar Operasi
+08190594 | Priska Noviana Arifani | SDM dan Legal
+08190595 | Inayah Amry | Dokter Umum
+08190597 | Teresa Dwi Octavia | Pendaftaran
+08190598 | Izmi Ade Yuniarsa | Akuntansi
+08190599 | Vika Retdianto | Sanitasi
+09190601 | Benny Budiman | Dokter Spesialis
+09190603 | Ferry Rama Dianto | Teknik
+10190606 | Pina | Pendaftaran
+10190607 | Rahendra Yosafat. S | Rawat Inap - Lantai 8
+10190608 | Bambang Joyo Suhendro | Manager
+10190609 | Warriyodi | Manager
+10190611 | Arina Hidayati | Admin Ruang
+10190612 | Agus Jayadi | Teknik
+10190613 | Dela Romastarida Marbun | Farmasi
+10190615 | Mardiah - Lab | Laboratorium
+10190616 | Jessica Windi Pratiwi | Farmasi
+11190618 | Dwi Oktaviany Ningtias | Kasir
+12190621 | Yanda Raymond Wiliam Foeh | Rawat Inap - Lantai 6
+12190622 | Mardiana | Rawat Inap - Kamar Bersalin
+12190623 | Theodora Sukarno | Dokter Umum
+01200624 | Elsa Paskalis Krisda Orpa | Admin Ruang
+01200625 | Deni Setiawan | Rumah Tangga
+01200626 | Dwi Suwandi | Teknik
+01200628 | Hari Kurniawan | IT
+02200631 | Zulkarnaen | Teknik
+02200632 | Mariah Ulfa | Farmasi
+02200634 | Amelia Dora | Rawat Inap - Lantai 5
+02200636 | Abdul Hady | Gawat Darurat
+03200637 | Imam | Teknik
+03200638 | Adi Gunawan | Teknik
+03200639 | Tuti Nopiansyah | Rekam Medis
+03200641 | Rosita Megawati | Farmasi
+03200643 | Pratiwi Andriani | Farmasi
+03200645 | Odila Dessy | Pendaftaran
+03200646 | Fitriani | Rawat Jalan
+03200647 | Enggar Tri Wahyu Lukito | Radiologi
+12180505 | Aldi Sapriansyah | IT
+110001 | DIANA | Cleaning Service
+110002 | YUSRI | Cleaning Service
+110004 | TRIANA | Cleaning Service
+110003 | MARIATI WIJAYA | Cleaning Service
+110006 | EFIANA | Cleaning Service
+110025 | AFRIYANGGA | Cleaning Service
+110037 | MARDIANSYAH | Cleaning Service
+110024 | BAHARI | Cleaning Service
+110008 | LINNA | Cleaning Service
+110010 | ALIA | Cleaning Service
+110009 | INDAH JURAIDA | Cleaning Service
+110020 | SUNARTI | Cleaning Service
+110015 | ZAINAL ABIDIN | Cleaning Service
+06200648 | Kukuh Kurniasih | Rawat Jalan
+06200649 | Zerawasti Sihombing | Rawat Inap - Kamar Bersalin
+110039 | ARGIANTO | Cleaning Service
+110018 | ANDRI MEIDYANTO | Cleaning Service
+110035 | FATURAHMAN | Cleaning Service
+110036 | ABDURAHMAN | Cleaning Service
+110028 | LAINI | Cleaning Service
+110007 | RABUNA | Cleaning Service
+110014 | MARLINDA | Cleaning Service
+120001 | FERRY FERDIANTO | Security
+120017 | DEDY SETIAWAN | Security
+120007 | SAMSUL BAHRI | Security
+120013 | TRI INDRA WAHYUDI | Security
+120004 | RESKY AGUS DWIYANTO | Security
+120008 | ARIFIN | Security
+120020 | M ALDI NUGROHO | Security
+120024 | M IMAM SYAHRANI | Security
+120014 | RISKI RAMADHAN | Security
+120021 | M IRFAN ISNAINI | Security
+120011 | GUNTUR RIYANDA | Security
+120019 | NANDA NURDION | Security
+120010 | HERIQ MUTTAQIM | Security
+120018 | DIMAS TRI SAPUTRA | Security
+120015 | M ABDUL HADI | Security
+120006 | YUDA YUNIZAR | Security
+120023 | RAKA PRILMA SASMITA | Security
+130008 | DENNY ANDRIYANTO | Parkir
+130003 | WINDI PURWANTO | Parkir
+130004 | SOFYAN WINANDI | Parkir
+130009 | HERU SUSANTO | Parkir
+07200650 | Muhammad Kurniawan, S.Kep Ners | Kamar Operasi
+07200651 | Evita Anjani | Pendaftaran
+110016 | SYARIF HASAN | Cleaning Service
+07200653 | Muhamad Rizaldi Launuru | Keuangan
+07200652 | Delvira Deseyla Esalson | Kasir
+120026 | Udha Hansaraputra | Security
+120027 | Agustiman Dani | Security
+120028 | YULIZAR | Security
+09200656 | Adam Soefian | Laboratorium
+09200658 | Elishabet Yohana | Kasir
+09200659 | Adri Alfiza | Farmasi
+09200660 | Muhammad Indra Santoso | Farmasi
+10200662 | Bella Yuhendra | Laboratorium Mikrobiologi
+10200663 | Syarifah Neti Kurniati | Laboratorium Mikrobiologi
+10200665 | Nur Cahaya Aprilyana | Laboratorium
+10200666 | Ribka Kristina Manurung | Laboratorium
+10200667 | Yunani Sri Angesti Hariyanti | Laboratorium
+110041 | Budi Paryanti | Cleaning Service
+11200672 | Ajeng Valeria | Pendaftaran
+11200671 | Ivan Samudra | Laboratorium
+11200674 | Parian Pilata | IT
+11200675 | Muhammad Ghafransyah Ikram | SDM dan Legal
+11200679 | Ria Melati Quindache Silalahi | Laboratorium Mikrobiologi
+11200678 | Lingga Nurbaiti | Laboratorium Mikrobiologi
+11200677 | Ester Tambunan | Rawat Jalan
+11200681 | Desi Kristie | Pendaftaran
+11200682 | Zia Naziha | Farmasi
+11200684 | Yopita Suriani | Rawat Inap - Lantai 6
+11200691 | Wasty Deviana Panggabean | Rawat Inap - Kamar Bersalin
+11200690 | Julita | Rawat Jalan
+11200689 | Dedi Wahyu Dianto | Radiologi
+11200688 | Nurhermanti | Rawat Inap - Lantai 6
+11200687 | Wiwit Winarti | Rawat Inap - Lantai 8
+08200654 | Ditha Praritama Sebayang | Dokter Spesialis
+12200692 | Paulla Satiti P. S. | Rawat Inap - Perinatologi
+12200693 | Nurul Ayu | Rawat Jalan
+12200694 | Daniel Setiawan | Farmasi
+12200695 | Yulita Rifayani | Radiologi
+12200696 | Suriyati | Pelayanan Intensif
+12200697 | Chindy Sulastri Ningsih | Kasir
+110043 | Syuradi | Cleaning Service
+01210699 | Syabirin | Laundry
+01210700 | Matilda Yaniarti | Rawat Inap - Lantai 6
+01210702 | Ana Rahmawati | Rekam Medis
+01210703 | Debora Tri Wulandari | Kasir
+02210704 | Sherly Dwi Nurcahyani | Laboratorium
+02210706 | Khairul Walidin | Rekam Medis
+02210707 | Erlina Marselina Rosa Manik | Keuangan
+130010 | Sinarto | Parkir
+03210708 | Chindy Pramudya Permadani | SDM dan Legal
+120030 | Rudriego Oktavian Erlangga | Security
+03210709 | Herdianus Rinaldi | Gawat Darurat
+04210713 | Rifqi Ichwany | Rawat Inap - Lantai 8
+04210714 | Hernati | Akuntansi
+04210715 | Albi Nurdiansyah | Teknik
+04210716 | Riki Hutaburi | Kamar Operasi
+04210717 | Annisa Kasturi | Farmasi
+04210718 | Laras Savira Maharani | Laboratorium
+04210719 | Desy Apriani | Laboratorium
+04210720 | Desty Amalia | Admin Ruang
+04210721 | Sarah Gratia | Kasir
+04210722 | Aditya Febrian Harianto | Pembelian
+05210723 | Sulianti | Keuangan
+05210726 | Esty Balqis | Rehabilitasi Medik
+05210728 | Tini | Akuntansi
+05210729 | Flasida Tita Avila | Kasir
+05210730 | Ferby Mantara | Farmasi
+05210731 | Yohanes Dudu | Rawat Inap - Lantai 6
+05210732 | Suci Ardhi | Gawat Darurat
+05210734 | Ricky | Pelayanan Intensif
+110044 | Asep salman | Cleaning Service
+06210736 | Mouniqke Regita Sahara | Pendaftaran
+06210737 | Desti | Pendaftaran
+06210738 | Eka Junita | Farmasi
+06210739 | Irfansyah | Rawat Inap - Lantai 6
+06210740 | Dwi Rizky Firmansyah | Rawat Inap - Lantai 5
+06210742 | Yulia Eyochika Aglatia Susanto | Pendaftaran
+06210743 | Yandhica Aditya | Pendaftaran
+06210744 | Theresia | Corporate
+06210745 | Syarif Efendi | Sanitasi
+130011 | Soleh | Parkir
+110045 | Muhammad Rizky Khaswara | Cleaning Service
+07210746 | Adit Prasetyo | Rehabilitasi Medik
+07210747 | Sy. Muhammad Dibaj | CSSD
+07210749 | Nico Theodorus | Dokter Umum
+07210750 | Yulia Winnie | Dokter Umum
+07210752 | Suyanti | Gawat Darurat
+07210753 | Maswarni | Laboratorium
+07210755 | Noviriyanti Restiana | Pendaftaran
+07210754 | Meliani Fransiska Andita | Dokter Umum
+07210758 | Jayanti Widya Astuti | Rawat Inap - Lantai 6
+07210760 | Intan Dwi Lestari | Rawat Inap - Lantai 8
+07210761 | Noviana | Rawat Inap - Perinatologi
+07210765 | Desy Anggreani | Rawat Inap - Lantai 6
+110046 | Sri Oktaviani | Cleaning Service
+110049 | Marina | Cleaning Service
+110050 | Tri Setiawan | Cleaning Service
+120032 | Arief Febrian | Security
+120033 | Riyan Haryono | Security
+07210768 | Ririn Mairani | Kamar Operasi
+07210769 | Paskalis Susilo | Rawat Inap - Lantai 6
+07210771 | Fikri | Pendaftaran
+07210772 | Irine Puji Lestari | Pendaftaran
+07210773 | Rie Rahmi Lusiani | Pendaftaran
+07210776 | Dwi Indah Islamiwati | Kasir
+07210777 | Eko Prasetyo | Admin Ruang
+07210779 | Muhammad Syahbandi | Pendaftaran
+08210780 | Heny Fitriani | Farmasi
+08210781 | Imam Muzakir | Rekam Medis
+08210783 | Citra Rahayu Ningsih | Laboratorium Mikrobiologi
+08210784 | Yulia Sari | Laboratorium
+08210785 | Nur Atika Afifah | Farmasi
+120034 | Triyono Herlanda P | Security
+110051 | Rangga Pratama | Cleaning Service
+110052 | Heri Irawan | Cleaning Service
+09210786 | Gusti Muhammad Herwandi | Kasir
+09210787 | Bella Tanari | Kasir
+09210788 | Hery Linusliansyah | Logistik
+09210789 | Melly | Akuntansi
+10210791 | Adetiya Burhasan Putra | IT
+10210792 | Jessica Christy | Akuntansi
+10210793 | Puja Imelda Abdul | Kasir
+10210794 | Agustia Yuda | Teknik
+11210795 | Kristina Beta | Rekam Medis
+11210796 | Apriyanti Ayu Wijaya | Farmasi
+12210797 | Siti Hajar Widya Ningsih | Farmasi
+120035 | Samsul Taufik | Security
+01220798 | David Relianto | -
+01220799 | Riana Yulisa | -

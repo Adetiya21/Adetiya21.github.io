@@ -1,0 +1,115 @@
+<html>
+  <head>
+    <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
+    <title>UNDIAN ULTAH RSMM</title>
+    <link rel="stylesheet" href="random.css" type="text/css"/>
+    <link rel="stylesheet" href="fireworks.css" type="text/css"/>
+    <link rel="stylesheet" href="css1.css" type="text/css"/>
+    <link rel="stylesheet" href="css2.css" type="text/css"/>
+    <script src="./jquery-1.10.2.min.js"></script>
+    <!-- <script src="./random.js"></script> -->
+    <script src="./js1.js"></script>
+    <script type="text/javascript">
+    $(document).ready(function(){
+       var xmlhttp;
+       if(window.XMLHttpRequest){
+           xmlhttp = new XMLHttpRequest();
+       }
+       else{
+           xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
+       }
+       xmlhttp.onreadystatechange = function(){
+           if(xmlhttp.readyState == 4){
+             var lines = xmlhttp.responseText;    /*here we get all lines from text file*/
+             var lineArr = lines.split('\n'); 
+             //just to check if it works output lineArr[index] as below
+             var li_data = '';
+             for (i = 0; i < lineArr.length; i++) {
+                if(lineArr[i].match(/[\u3400-\u9FBF]/)){
+                    var get_time;
+                    if (!Date.now()) {
+                        get_time = new Date().getTime();
+                    } else {
+                        get_time = Date.now();
+                    }
+                    var li_id = lineArr.length+'_'+i+'_'+get_time;
+                    li_data += '<li id="'+li_id+'">'+lineArr[i].trim()+'</li>';
+                } else {
+                    var li_id = lineArr[i].replace(/[^a-zA-Z0-9]+/g,'_');
+                    li_data += '<li id="'+li_id+'">'+lineArr[i].trim()+'</li>';
+                }
+             }
+             $("#attendees").html(li_data);
+           }
+       }
+         xmlhttp.open("GET", "transaksi.txt", true);
+         xmlhttp.send();
+    });
+    </script>
+  </head>
+<body>
+    <img src="images/bg.png" class="bgg">
+    <img src="images/88.png" class="we_care">
+    <img src="images/88.png" class="seven">
+    <img src="images/Bunga Kanan.png" class="bunga_kanan">
+    <img src="images/Bunga Kiri.png" class="bunga_kiri">
+  <!-- <div class="pyro">
+    <div class="before"></div>
+    <div class="after"></div>
+  </div> -->
+  <div class="container">
+    <div class="header">
+      <!-- <h1 style="color: white;">UNDIAN ULTAH RS MITRA MEDIKA</h1> -->
+      <img src="images/Logo_glow_wewe-min.png" style="width: 45%;">
+    </div>
+    
+    <div class="wrapper">
+      <div style="margin-top: 100px;">
+        <button class="pushable">
+          <span class="shadow"></span>
+          <span class="edge"></span>
+          <span class="front" id="draw"><b>Tarik Undian</b></span>
+          <span class="front" id="stop" style="display: none;"><b>Stop</b></span>
+        </button>
+      </div>
+      <!-- <a href="#" id="roll">Tarik Undian</a>
+      <a href="#" id="utama">STOP</a> -->
+      <br><br>
+      <div class="slot">
+        <div class="slot__outer">
+          <div class="slot__inner">
+            <div class="slot__shadow"></div>
+            <div id="names"></div>
+          </div>
+        </div>
+      </div>
+      <div id="winner"></div>
+    </div>
+    <div class="attendees-wrapper">
+      <h2>Attendees</h2>
+      <ul id="attendees">
+      </ul>
+    </div>
+    <!-- <div id="drumroll-image">
+      <img src="images/drumroll.gif">
+    </div>   -->
+    <!-- <span id="draw-name">Tarik Undian</span>
+    <span id="draw-name-2">Hadiah Utama</span> -->
+    <br>
+    <div class="winner-container">
+      <ol id="winners"></ol>
+    </div>
+
+    <div class="overlay">
+      <canvas id="world"></canvas>
+      <h1 id="winner"></h1>
+      <svg id="close" aria-hidden="true" data-prefix="far" data-icon="times" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512" class="svg-inline--fa fa-times fa-w-10 fa-3x"><path fill="white" d="M207.6 256l107.72-107.72c6.23-6.23 6.23-16.34 0-22.58l-25.03-25.03c-6.23-6.23-16.34-6.23-22.58 0L160 208.4 52.28 100.68c-6.23-6.23-16.34-6.23-22.58 0L4.68 125.7c-6.23 6.23-6.23 16.34 0 22.58L112.4 256 4.68 363.72c-6.23 6.23-6.23 16.34 0 22.58l25.03 25.03c6.23 6.23 16.34 6.23 22.58 0L160 303.6l107.72 107.72c6.23 6.23 16.34 6.23 22.58 0l25.03-25.03c6.23-6.23 6.23-16.34 0-22.58L207.6 256z" class=""></path></svg>
+    </div>
+
+    <div class="sponsors">
+      <ul>
+        <li></li>
+      </ul>
+    </div>
+  </div>
+</body>
